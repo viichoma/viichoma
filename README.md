@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Vinicius Choma
 Estudante do 3° Termo de Analise e Desenvolvimento de Sistemas na FATEC Ourinhos
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](viniciuschoma@outlook.com)
+<a href = "mailto:viniciuschoma@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
 ![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=viichoma&show_icons=true&theme=buefy&count_private=true)
