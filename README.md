@@ -4,7 +4,7 @@ Estudante do 4° Termo de Analise e Desenvolvimento de Sistemas na FATEC Ourinho
 <a href = "mailto:viniciuschoma@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/vinicius-woicikieviz-choma-22131b249/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=viichoma&show_icons=true&theme=buefy&count_private=true)
+
 
 ## Tecnologias mais utilizadas
 <div style="display: inline_block">
@@ -12,4 +12,4 @@ Estudante do 4° Termo de Analise e Desenvolvimento de Sistemas na FATEC Ourinho
   <img align="center" alt="cpp" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viichoma&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
