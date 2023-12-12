@@ -39,6 +39,8 @@ Estudante do 5° Termo de Analise e Desenvolvimento de Sistemas na FATEC Ourinho
     <a href="https://github.com/marianecuri">
     <img align="top" alt="mari" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
     </a>
+    <br><br>
+    <a href="https://github.com/marianecuri/ADS-Fatec-Ourinhos/tree/main/3º%20Semestre/Economia%20e%20Finanças" target="_blank"><img src="https://img.shields.io/badge/ACESSAR-gray?logo=github" height="30px" target="_blank"></a>
 </div>
 
 <div style="display: inline_block">
@@ -54,5 +56,6 @@ Estudante do 5° Termo de Analise e Desenvolvimento de Sistemas na FATEC Ourinho
   </a>
    <br>
   <img align="top" alt="vw" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <br>
+    <br><br>
+    <a href="https://github.com/viichoma/QRCode-Python" target="_blank"><img src="https://img.shields.io/badge/ACESSAR-gray?logo=github" height="30px" target="_blank"></a>
 </div>
