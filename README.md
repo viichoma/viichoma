@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Vinicius Choma
-Estudante do 6° Termo de Analise e Desenvolvimento de Sistemas na FATEC Ourinhos
+Formado em Analise e Desenvolvimento de Sistemas na FATEC Ourinhos
 
 <a href = "mailto:viniciuschoma@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/vinicius-woicikieviz-choma-22131b249/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
