@@ -17,6 +17,26 @@ Formado em Analise e Desenvolvimento de Sistemas na FATEC Ourinhos
   <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   
   <div style="display: inline_block">
+
+</div>
+  <div align="center">
+  <h2> Detecção de Armas de Fogo em CFTV</h2>
+</div>
+<div align="center">
+  <div align="center">
+  <a href="https://drive.google.com/file/d/1-3uB_PB0DeyaPiVLvkzKGYBvegy57E_z/view?usp=sharing">
+    
+  <img src="https://u1.padletusercontent.com/uploads/padlet-uploads/3187230190/f69a2f7316fb0b234569d18002ed2d3d/Captura_de_tela_2024_12_17_225250.png?token=1eP69MkYFY_YAUCiCSyNaEw-BKsq5EXeYleO9XeLg3EdAq3dLKWfKJjNJ4otXSgwja0Cg2_pIUcmm9-e_SLT6mtUcnlbmYGimgOAE0ftv4eGMU5R1amQUzxPr5oOlVv6QPzwrXgMrX2ZOavLtXrVyiZtHYvPN7dbjKwXhgZ_cwKOxhvoSZOlvIrdpGrL7GCSJc7R6gqHInKmB4CksM7Q1rIATTDNU5ChegZrffVhP6zPP3FMyMbWKKS150xQADt5o9MzP_Qpv6VzjSYAvhL0Bw=="/>
+
+  </a>
+   <br>
+   <a href="https://colab.research.google.com/drive/1nnpu8DqfT7V33vaJATqIBsbvBtyxk3R7?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
+  <img align="top" alt="vw" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <br><br>
+    <a href="https://github.com/viichoma/CCTV-FiregunDetection" target="_blank"><img src="https://img.shields.io/badge/ACESSAR-gray?logo=github" height="30px" target="_blank"></a>
+</div>
+  
+</div><br/>
   
 </div>
   <div align="center">
